@@ -1,6 +1,6 @@
 # Hi there! I'm P. ShreHari 👋
 
-Welcome to my GitHub profile! I'm a passionate web developer currently studying in my 3rd year at Dr. NGP Institute Of Technology. I love creating beautiful and functional web applications, and I'm constantly exploring new technologies and improving my skills. 
+Welcome to my GitHub profile! I'm a passionate web developer currently studying in my 4th year at Dr. NGP Institute Of Technology. I love creating beautiful and functional web applications, and I'm constantly exploring new technologies and improving my skills. 
 
 ## 🌐 Web Development Enthusiast
 
