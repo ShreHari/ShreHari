@@ -1,40 +1,44 @@
-# Hi there! I'm P. ShreHari 👋
+<h1 align="center">Shre Hari Prem Anandh</h1>
 
-Welcome to my GitHub profile! I'm a passionate web developer currently studying in my 4th year at Dr. NGP Institute Of Technology. I love creating beautiful and functional web applications, and I'm constantly exploring new technologies and improving my skills. 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=AI+Engineer+Intern+%40+NexCell+Solutions;MSc+Artificial+Intelligence+%40+Sheffield;I+build+AI+agents+that+actually+ship" alt="headline" />
+</p>
 
-## 🌐 Web Development Enthusiast
+<p align="center">
+  <a href="https://www.linkedin.com/in/shrehari"><img src="https://img.shields.io/badge/LinkedIn-shrehari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:shrehari66@gmail.com"><img src="https://img.shields.io/badge/Email-shrehari66%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-My journey in web development has been an exciting one. I enjoy the process of turning ideas into reality and crafting elegant solutions. Whether it's designing the user interface or diving into the backend logic, I'm always up for a challenge.
+Most machine learning projects fail at deployment, so that is the part I focus on. I work on LLM agents, voice interfaces, and the production infrastructure behind them: the agent loop, the tools it calls, and the containers it ships in.
 
-## 🔭 Current Projects
+## 🚀 What I am building right now
 
-I'm currently working on a few interesting projects that showcase my skills and interests:
+**[Aria, an AI voice receptionist](https://github.com/ShreHari/hotel-voice-receptionist)** — a hands-free hotel agent with a hand-written agent loop, five real MCP (Model Context Protocol) tools, neural TTS, session memory, Docker, and a live cloud deployment.
 
-1. **Project 1**: *E-commerce Website*
-   - Technologies: HTML, CSS, JavaScript, Node.js, Express, MongoDB
-   - Description: Building a fully functional e-commerce website with user authentication, product listings, shopping cart, and payment integration.
+🗣️ **Talk to her live:** https://aria-hotel-receptionist.onrender.com *(free tier, first load may take a minute to wake; Chrome for voice)*
 
-2. **Project 2**: *Personal Portfolio Website*
-   - Technologies: HTML, CSS, React
-   - Description: Creating a portfolio website to showcase my projects, skills, and achievements in a visually appealing way.
+Currently at **NexCell Solutions** working on LLM agents and automation for production SaaS, alongside my MSc.
 
-3. **Project 3**: *Blog Platform*
-   - Technologies: Django, Python, PostgreSQL
-   - Description: Developing a blog platform where users can create, edit, and share their blogs with a rich text editor and comment functionalities.
+## 🧰 Tools I reach for
 
-## 🌱 Learning and Growth
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/MCP-1f2937?style=for-the-badge" alt="MCP">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-As a third-year student, I believe that learning is a continuous process, and I am always eager to expand my knowledge and expertise in web development. Some areas I'm currently focusing on include:
+## 📌 A few things I have done
 
-- Frontend frameworks like React and Vue.js
-- Backend technologies such as Django and Express.js
-- Mobile app development using React Native
-- Cloud computing and serverless architectures
+- **IEEE published (2024):** built a real-time disease monitoring and alert platform; alerts surfaced in 2 to 5 minutes and false positives dropped 25% with hybrid rule-based + ML alerting
+- **Production backend experience:** Python services processing 100k+ structured records a week across three live client-facing applications, with FastAPI, JWT, and Grafana observability
+- **MSc Artificial Intelligence** at the University of Sheffield, graduating September 2026: extractive QA with RoBERTa (F1 0.50 to 0.69), speech classification, time-series forecasting, medical image clustering
 
-## 📫 Let's Connect
+## 📫 Say hello
 
-I'm excited to collaborate with like-minded developers and enthusiasts. If you'd like to get in touch, discuss ideas, or work together on a project, feel free to reach out to me via email at shreharip@drngpit.ac.in or connect with me on [LinkedIn](https://www.linkedin.com/in/shrehari).
-
-Thank you for visiting my GitHub profile! Have a great day! 😊
-
-*Remember, the journey of a developer is full of exciting challenges and learning opportunities. Embrace them, and your skills will soar to new heights!* 🚀
+Open to UK-based AI, ML, and backend graduate roles starting late 2026. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/shrehari) or shrehari66@gmail.com.
