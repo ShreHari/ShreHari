@@ -13,7 +13,7 @@
 
 Most machine learning projects die in a notebook, so the part I care about is everything after it: the queues, retries, tests and evals that let a model hold up in front of real users.
 
-I'm an **AI Engineer Intern at NexCell Solutions**, shipping a production WhatsApp AI agent that books property viewings through MCP tools, and I've just finished an **MSc in Artificial Intelligence at the University of Sheffield**. **Available now for full-time roles in the UK**, on a UK Student visa now and moving to the Graduate Route (PSW) in December 2026, so no sponsorship is needed.
+I'm an **AI Engineer Intern at NexCell Solutions**, shipping a production WhatsApp AI agent that books property viewings through MCP tools, and I've just finished an **MSc in Artificial Intelligence at the University of Sheffield**. **Available now for full-time roles in the UK.** I'm on a UK Student visa today and moving to the Graduate Route (PSW) in December 2026, so no sponsorship is needed.
 
 ## 🚀 Featured: AgentForge, live on Google Cloud
 
