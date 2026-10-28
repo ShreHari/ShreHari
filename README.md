@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://shrehari.github.io"><img src="https://img.shields.io/badge/Portfolio-shrehari.github.io-BF3B0B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://shrehari.github.io/assets/Shre_Hari_Prem_Anandh_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-1b1713?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV (PDF)"></a>
   <a href="https://www.linkedin.com/in/shrehari"><img src="https://img.shields.io/badge/LinkedIn-shrehari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:shrehari66@gmail.com"><img src="https://img.shields.io/badge/Email-shrehari66%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -13,6 +14,12 @@
 Most machine learning projects die in a notebook, so the part I care about is everything after it: the queues, retries, tests and evals that let a model hold up in front of real users.
 
 I'm an **AI Engineer Intern at NexCell Solutions**, shipping a production WhatsApp AI agent that books property viewings through MCP tools, and I've just finished an **MSc in Artificial Intelligence at the University of Sheffield**. **Available now for full-time roles in the UK**, Graduate Route eligible, no sponsorship needed.
+
+## 🚀 Featured: AgentForge, live on Google Cloud
+
+<a href="https://github.com/ShreHari/agentforge"><img src="https://shrehari.github.io/assets/work/agentforge_live.png" alt="AgentForge live app: tailor your application to any job" width="760"></a>
+
+A job-hunt agent I built solo in two weeks and run on GKE: every run is queued on Pub/Sub, checkpointed in Postgres after each step, and picked up where it stopped if a worker dies. **[Try it live](https://34-102-210-23.sslip.io)** · **[Code, architecture and eval reports](https://github.com/ShreHari/agentforge)**
 
 ## 🔨 Things I have built
 
